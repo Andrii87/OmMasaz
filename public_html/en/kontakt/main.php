@@ -10,8 +10,9 @@
 	<hr>
 	
 	<div class=dwie_kolumny >
-		<h2>Tel: (+48) 739 489 010 - Andrew</h2>
-		<h2>Tel: (+48) 739 489 044 - Swietlana</h2>
+		<h2>Tel: (+48) 739 489 010 - Andrew <br>(Viber and Telegramm)</h2>
+		<!--<h2>Tel: (+48) 739 489 044 - Swietlana</h2>-->
+
 	</div> 
 	
 	
@@ -35,14 +36,19 @@
 		<b>Sun-Sat:&nbsp;&nbsp;9:00 - 21:00</b>
 		<br>
 		
-		<h2>Adress: &nbsp;Al. Niepodległości 159,  lok. 223</h2>
+		<h2>Adress: &nbsp;Jana i Jędrzeja Śniadeckich 18 loc. 22</h2>
 		<p>
 			
 			
 			<br>
 	 
-			We are lokated near metro station POLE MOKOTOWSKIE  (M1).<br>
-			 To get to our place you should go in direction away from center, by Al.Niepodleglosci, it takes about 3 minutes from the metro station.
+			We are lokated near metro station <strong>POLITECHNIKA</strong>  (M1 line).<br>
+			It takes 3 min to walk to us from metro station, if you know where to go.<br>
+			It takes about 5 min wo walk to us, using Google maps :)
+			<p>On the intercom press 22 <p>
+			<p>Massages are only by appointments</p>
+			 <!--To get to our place you should go in direction away from center, by Al.Niepodleglosci, it takes about 3 minutes from the metro station.
+			 -->
 			 <!--Aby dotrzeć do nas ze stacji metra należy 
 			 kierować się do wyjścia na ulicę Rakowiecką , iść prosto Alejami Niepodległości w
 			 kierunku od centrum.
