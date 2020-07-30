@@ -1,0 +1,12 @@
+#jezyki{
+	float: right;
+}
+
+#jezyki a{
+	text-decoration: none;
+}
+
+#jezyki img{
+	height: 25px;
+	padding-top: 4px;
+}

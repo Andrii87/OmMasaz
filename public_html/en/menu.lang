@@ -1,0 +1,9 @@
+var menu = {
+	masaze:		'Massages', 
+	cennik:		'Prises', 
+	oferty:		'Offers', 
+	o_nas:		'About us',
+	kontakt:	'Contact'
+};
+
+//alert( menu.masaze ); 

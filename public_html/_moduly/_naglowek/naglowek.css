@@ -1,0 +1,47 @@
+#strona > header{
+	padding-top: 20px;
+	padding-bottom: 20px;  
+}
+
+#strona > header > div{
+	margin:auto;
+	position: relative;
+	text-align: center; 
+}
+
+#strona > header > div > div{ 
+	text-align: center; 
+	top: 30px; left: 150px;
+	color: white;
+} 
+
+#strona > header  h1{ 
+	font-family: 'Kaushan Script', cursive; 
+	/*font-family: 'Courgette', cursive; */
+	font-size: 50px;
+	font-style: italic;
+	margin-bottom: 10px;
+	text-shadow:  2px 2px 2px #2f3f1a; 
+	color: #efefef;
+} 
+
+#strona > header  h2{
+	font-family: 'Kaushan Script', cursive;  
+	font-size: 20px; 
+	/*color: #ddd;*/
+	color:#efefef;
+	text-shadow: 1px 1px 1px black /*#2f3f1a*/; 
+}
+
+
+@media (min-width: 700px) {
+	#strona > header > div{
+		width: 600px; 
+		text-align: initial;
+	}
+	
+	#strona > header > div > div{
+		width: 400px; 
+		position: absolute;
+	}
+}

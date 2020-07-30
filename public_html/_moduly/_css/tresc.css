@@ -1,0 +1,235 @@
+#strona > main{
+	background-color: rgba(255,255,255,0.2);
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 3%;
+	font-family: 'Spectral', serif; 
+	color: white;
+	text-shadow:  1px 1px 2px black; 
+	
+	font-size: 20px;
+	line-height: 1.25;
+}
+
+#strona > main > h1{
+	font-size: 150%;
+	font-family: 'Kaushan Script', cursive; 
+	color: #eee;
+	text-shadow:  1px 1px 1px black; 
+}
+
+#strona > main hr{
+	border: none;
+	border-top: 1px solid #eee; 
+	margin-top: 20px;	margin-bottom: 20px; 
+}
+
+/* kolumny ==============================================================*/
+.jedna_kolumna{
+	width: 98%;
+	margin: 1%;
+}
+
+.dwie_kolumny, .trzy_kolumny, .jedna_trzecia_kolumny, .dwie_trzecie_kolumny{
+	margin: 1%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+
+@media (min-width: 700px) {
+	.dwie_kolumny{
+		float: left;
+		width: 48%; 
+		padding: 0;
+	} 
+	
+	.trzy_kolumny{
+		float: left;
+		width: 31%; 
+		padding: 0;
+	} 
+	
+	.jedna_trzecia_kolumny{
+		width: 31%; 
+		float: left;
+	}
+	
+	.dwie_trzecie_kolumny{
+		width: 65%; 
+		float: left;
+	}
+}
+
+/*========================================================================*/
+
+/* formatowanie tekstu */
+i{
+	font-style: italic;
+}
+
+b{
+	font-weight: bold;
+}
+
+u{
+	text-decoration: underline;
+}
+
+em{
+	font-weight: bold;
+	font-style: italic;
+}
+
+strong{
+	font-weight: bold;
+}
+
+
+/* wyrónanie zawartkości text-align */
+.doLewej{
+	text-align: left;
+}
+.doPrawej{
+	text-align: right;
+}
+.doSrodka{
+	text-align: center;
+}
+.doWyjustowanie{
+	text-align: justify;
+}
+
+
+/* listy */
+#strona > main ul{
+	list-style-type: disc;
+	margin-left: 25px;
+}
+
+/* grafika */
+#strona > main img, #strona > main iframe{
+	max-width: 100%;
+	display: block;
+	border: 1px black solid;
+    box-shadow: 2px 2px 3px 4px rgba(0,0,0, .5); 
+	margin: auto;
+}
+
+#strona > main h2{
+	font-size: 100%;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-shadow:  1px 1px 1px black; 
+}
+
+#strona  > main p{
+	margin-top: 10px; margin-bottom: 10px;
+}
+
+/* więcej... łacza */
+a.lacze_wiecej{
+	display: inline-block;
+	margin-top: 20px;
+	color: #eee;
+	font-style: italic;
+	text-shadow:  1px 1px 3px black; 
+}
+
+a.lacze_wiecej:hover{
+	color: #fff;
+}
+
+
+
+/* umów się - przycisk */
+#umow_sie input[type=button]{
+    box-shadow: 2px 2px 3px 4px rgba(0,0,0, .5); 
+	font-family: 'Open Sans', sans-serif;
+	display: block;
+	margin-left: auto; margin-right: auto; 
+	margin-bottom: 20px; 
+	padding: 10px;
+	border-radius: 5px;
+	cursor: pointer;
+	min-width: 200px;
+	/* color:
+	   background-color: 
+	   background-image: url('')*/
+	background: #bbb; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(#ddd, #bbb); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ddd, #bbb); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ddd, #bbb); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ddd, #bbb); /* Standard syntax (must be last) */
+}
+
+#umow_sie input[type=button]:hover{
+	background: #ccc; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(#eee, #ccc); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#eee, #ccc); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#eee, #ccc); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#eee, #ccc); /* Standard syntax (must be last) */
+}
+
+#umow_sie input[type=button]:active{
+	/* color:
+	   background-color: 
+	   background-image: url('')*/
+	color: #666;
+    box-shadow: 2px 2px 3px 1px rgba(0,0,0, .5); 
+	outline: none;
+}
+
+
+/* podstrona cennik */
+#cennik_baner{
+	position: relative;
+	text-align: center;
+}
+
+#cennik_baner p{
+	position: absolute;
+	display: block;
+	margin: auto;  
+}
+
+#cennik_baner p:first-of-type{
+	top: 25%; 
+	width: 100%; 
+}
+
+#cennik_baner p:last-of-type{
+	bottom: 10%;
+	width: 100%;
+	color: #ddd;
+	font-style: italic;
+}
+
+@media (max-width: 650px){
+	#cennik_baner p:first-of-type{
+		top: 0;
+	}
+	
+	#cennik_baner p:last-of-type{
+		bottom: 0;
+	}
+}
+
+@media (max-width: 450px){
+	#cennik_baner p{
+		font-size: 90%;
+	}
+}
+
+@media (max-width: 420px){
+	#cennik_baner p{
+		font-size: 70%;
+	}
+}
+
+@media (max-width: 360px){
+	#cennik_baner p{
+		font-size: 60%;
+	}
+}

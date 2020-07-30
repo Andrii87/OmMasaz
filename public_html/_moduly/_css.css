@@ -1,0 +1,36 @@
+@charset 'utf-8';
+@import './_css/fonts.css';
+@import './_css/reset.css';
+@import './_wersje_jezykowe/jezyki.css';
+@import './_naglowek/naglowek.css';
+@import './_menu/menu.css';
+@import './_stopka/stopka.css';
+@import './_css/tresc.css';
+
+body{
+	/*background-image: url('./_img/tlo2.png');  
+	background-size: cover;
+	*/
+	background-image:url('./_img/background.jpg');
+	background-repeat: no-repeat;
+    background-attachment: fixed; 
+   
+/*   
+   background-attachment: local; 
+	*/
+	/*background-size:100%;
+	*/
+	background-size: cover;
+	
+}
+
+#strona{
+	display: none;
+	max-width: 1000px;
+	margin-left: auto; margin-right: auto;
+	padding-left: 1%; padding-right: 1%;
+}
+
+.ukryj{
+	display: none;
+}

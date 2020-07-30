@@ -1,0 +1,46 @@
+#strona > nav{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#strona > nav > div{
+	position: relative;
+	width: 20%;
+	float: left;
+	text-align: center;
+}
+
+#strona > nav > div > a{ 
+	display: inline-block;
+	width: 100%;
+}
+
+
+#strona > nav a{
+	text-decoration: none; 
+	padding-top: 10px; padding-bottom: 10px;
+	/*background-color: #2F3F1A;*/
+	background-color: rgba( 47, 63, 26, 0.9 );
+	color: #eee;
+} 
+
+#strona > nav  a:hover{
+	background-color: #7D8C6B;
+	color: #2F3F1A;
+}
+
+
+
+.menu_rozwijane{
+	display: none;
+	position: absolute;
+	width: 100%;  
+}
+
+.menu_rozwijane a{  
+	display: block;
+	margin-top: 2px;
+}
+
+#strona > nav > div:hover .menu_rozwijane{
+	display: block; 
+}
