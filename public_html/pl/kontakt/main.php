@@ -34,16 +34,19 @@
 		<b>Pn-Nd:&nbsp;&nbsp;9:00 - 21:00</b>
 		<br>
 		
-		<h2>Adres: &nbsp;Al. Niepodległości 159,  lok. 223</h2>
+		<!--<h2>Adres: &nbsp;Al. Niepodległości 159,  lok. 223</h2> -->
+		<h2>Jana i Jędrzeja Śniadeckich 18, lok.22</h2>
 		<p>
 			
 			
 			<br>
 	 
 			Mieścimy się blisko stacji metra (M1)<br>
-			 – POLE MOKOTOWSKIE. Aby dotrzeć do nas ze stacji metra należy 
-			 kierować się do wyjścia na ulicę Rakowiecką , iść prosto Alejami Niepodległości w kierunku od centrum.
-			To zajmuje ok. 2 minuty pieszo.
+			 – POLITECHNIKA. Aby dotrzeć do nas ze stacji metra należy 
+			 kierować się do wyjścia w  stronę centrum. 
+			To zajmuje ok. 3 minuty pieszo.
+			Na domofonie wcisnąc 22, prosto przez brame, do kwietnika i wprawo.
+			Na domofonie - 22. Gabinet jest na parterze.
 		</p>
 	
 
