@@ -75,7 +75,7 @@
 		<img src='./../../_moduly/_img/img-foot-massage.png' alt='taj massage image'>
 	</div>
 	<div class=dwie_kolumny >
-		<h2>Thai Foot Massage</h2>
+		<h2> Foot Massage</h2>
 		<p>
 			<!--<b>Pobudź swoje ciało przez stopy!</b><br> -->
 		is performed with the use of natural oils. Foot massage is a form of strong, yet gentle massage on the feet, toes and ancles. Massage is designed to reduce the level of muscle tension, increase blood supply of the area, stretching muscles, nourishment and regeneration of cells.
@@ -90,6 +90,35 @@
 	
 	<div style='clear: both'></div>
 	
+
+<hr>
+
+	
+	
+	
+	<div class=dwie_kolumny>
+		<img src='./../../_moduly/_img/img8.png' alt='masaż modelujący ciało'>
+	</div>
+	<div class=dwie_kolumny >
+		<h2>Chinese Rubber Cupping Massage</h2>
+		<p>
+			<b>Masaż bańką chińską pozwala w szybkim czasie i w prosty sposób pozbyć się skórki pomarańczowej lub wyraźnie zmniejszyć jej widoczność. </b><br>
+			Dla uzyskania pożądanych efektów, należy go wykonywać w odstępach 2-3 dniowych. Aby osiągnąć jak najlepsze rezultaty, warto przeprowadzić serię 12-15 zabiegów.
+		</p>
+		<p class='doPrawej'>
+			<a href='./../cennik/' class='lacze_wiecej'>
+				Check the prices
+			</a>
+		</p>
+	</div> 
+	
+	<div style='clear: both'></div>
+
+
+
+
+
+	<!--
 	<hr>
 	
 	
@@ -101,7 +130,7 @@
 	<div class=dwie_kolumny >
 		<h2>Thai Body Massage</h2>
 		<p>
-			<!--<b>Poczujesz się jak w Tajlandii!</b> <br> -->
+			<b>Poczujesz się jak w Tajlandii!</b> <br> 
 			Traditional Thai massage comes from the exotic region of Chiang Mai in Thailand and is one of the ancient techniques of traditional treatment of many ailments, which is passed down from generation to generation. Thai massage combines acupressure and refleksotherapy with aromatherapy, using essential oils such as lavender, rose, bergamoth, and ylang-ylang.
 			Massage is performed on a dressed person (a loose shirt and pants recommended).
  
@@ -112,16 +141,16 @@
 				Check the prices
 			</a>
 		</p>
-	</div> 
+	</div> -->
 	
 	<div style='clear: both'></div>
 	
-	<hr>
 	
 	
 	
 	
 	
+	<!--
 	<div class=dwie_kolumny>
 		<img src='./../../_moduly/_img/img-tok-sen-massage.jpg' alt='img-tok-sen massage'>
 	</div>
@@ -148,7 +177,8 @@
 	</div> 
 	
 	<div style='clear: both'></div>
-	
+	-->
+	<!--
 	<hr>
 	
 	
@@ -174,29 +204,9 @@ Due to the improvement of blood circulation, it is very advisable for women whos
 	</div> 
 	
 	<div style='clear: both'></div>
+	-->
 	
-	<hr>
-	
-	
-	
-	<div class=dwie_kolumny>
-		<img src='./../../_moduly/_img/img8.png' alt='masaż modelujący ciało'>
-	</div>
-	<div class=dwie_kolumny >
-		<h2>Chinese Rubber Cupping Massage</h2>
-		<p>
-			<b>Masaż bańką chińską pozwala w szybkim czasie i w prosty sposób pozbyć się skórki pomarańczowej lub wyraźnie zmniejszyć jej widoczność. </b><br>
-			Dla uzyskania pożądanych efektów, należy go wykonywać w odstępach 2-3 dniowych. Aby osiągnąć jak najlepsze rezultaty, warto przeprowadzić serię 12-15 zabiegów.
-		</p>
-		<p class='doPrawej'>
-			<a href='./../cennik/' class='lacze_wiecej'>
-				Check the prices
-			</a>
-		</p>
-	</div> 
-	
-	<div style='clear: both'></div>
-	
+<!--	
 	<hr>
 	
 	
@@ -221,6 +231,7 @@ Due to the improvement of blood circulation, it is very advisable for women whos
 	</div> 
 	
 	<div style='clear: both'></div>
+-->
 	
 	<hr>
 </main>
