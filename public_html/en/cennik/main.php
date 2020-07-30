@@ -5,6 +5,7 @@
 	<hr>
 	
 	<div class=jedna_kolumna id=cennik_baner>
+		<!--
 		<img src='./../../_moduly/_img/cennik_masaz_baner.png' 
 				alt='opis obrazka'>
 		<p>
@@ -14,16 +15,17 @@
 		<p>
 			*olny for first 15 min of massage
 		</p>
+	-->
 	</div>
 	
 	<hr>
 	
 	<div class=trzy_kolumny>
-		<p>Duration 30 min - 40 PLN</p>
-		<p>Duration 45 min - 60 PLN</p>
-		<p>Duration 60 min - 80 PLN</p>
-		<p>Duration 90 min - 120 PLN</p>
-		<p>Duration 120 min - 160 PLN</p>
+		<p>Duration 30 min - 50 PLN</p>
+		<p>Duration 45 min - 75 PLN</p>
+		<p>Duration 60 min - 100 PLN</p>
+		<p>Duration 90 min - 150 PLN</p>
+		<p>Duration 120 min - 200 PLN</p>
 	</div>
 	
 	<div class=trzy_kolumny>
@@ -61,24 +63,26 @@
 	
 	<div class=trzy_kolumny>
 		<h2>5 Massages &nbsp;Package</h2>
+		<h3>(Massage a week)</h3>
 		<p> 
 			5 massages 60 min
-			for 300&nbsp;pln 
-			(1&nbsp;massage - 60&nbsp;pln)
+			for 400&nbsp;pln 
+			(1&nbsp;massage - 80&nbsp;pln)
 			package expires in 6&nbsp;weeks
 			<br>
 			*&nbsp;for students price is 
-			-  250&nbsp;pln
-			(1&nbsp;massage - 50&nbsp;pln)	
+			-  350&nbsp;pln
+			(1&nbsp;massage - 70&nbsp;pln)	
 		</p> 
 	</div>
 	
 	<div class=trzy_kolumny>
 		<h2>3 Massages &nbsp;Package </h2>
+		<h3>(Massage a month) &nbsp; </h3>
 		<p> 
 			5 massages 60 min
-			for 200&nbsp;pln
-			(1&nbsp;massage - 67&nbsp;pln)
+			for 260&nbsp;pln
+			(1&nbsp;massage - 86,7&nbsp;pln)
 			package expires in 3&nbsp;month 
 			
 		</p> 
@@ -88,7 +92,7 @@
 		<h2>Outcall&nbsp;massage</h2>
 		<p> 
 			
-			60 min - 120 pln
+			60 min - 140 pln
 ​			<br>
 			90 min - 180 pln  
 ​			<br>  
@@ -110,9 +114,9 @@
 			Gift Certificate
 ​		</h2>
 		<p>
-			60 min. - 69&nbsp;pln
+			60 min. - 80&nbsp;pln
 			<br>
-			90 min. - 99&nbsp;pln
+			90 min. - 100&nbsp;pln
 			<br>
 			*&nbsp;card expires in 3 &nbsp;month
 		</p>
