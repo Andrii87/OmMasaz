@@ -4,8 +4,12 @@
 	<hr>
 	
 	<div class=dwie_kolumny>
+		<!--
 		<img src='./../../_moduly/_img/img1.jpg' alt='masowana laska, której jest dobrze...'>
+	-->
+	    <iframe width="560" height="315" src="https://www.youtube.com/embed/qUATo5huALE?rel=0&amp;autoplay=1&mute=1&loop=1&controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
+
 	<div class=dwie_kolumny >
 		<h2>Masaż Szwedzki (klasyczna szkoła USA)</h2>
 		<p>

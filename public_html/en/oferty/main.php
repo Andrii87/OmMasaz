@@ -6,23 +6,15 @@
 	<div class='jedna_trzecia_kolumny'>
 		<img src='./../../_moduly/_img/oferta_promocyjna.png' alt='oferta promocyjna'>
 		<p class=doSrodka>
+			<!--
 			<a href='./../nauka_masazu/' class=lacze_wiecej>
-				nauka masażu
-			</a>
+				learning massage
+			</a>-->
 		</p>
 	</div>
 	
 	<div class='dwie_trzecie_kolumny'>
-		<h2>Promocja na Walentynki! masaż dla pary 60 min. za 120 zł</h2>
-		<p>
-			U nas Walentynki trwają od 10.02.2017 do 17.02.2017 ;)
-		</p>
-		<p>
-			Zapraszamy na godzinny masaż dla par ;) 
-		</p>
-		
-		<hr>
-		
+		<!--
 		<h2>
 			Specjalna oferta dla fryzjerek/fryzjerów/manikiurzystek
 		</h2>
@@ -38,20 +30,26 @@
 		</p>
 		
 		<hr>
-		
+		-->
 		<h2>
-			Oferta "2 nowe osoby = 1 masaż
+			Bring a friend - get 30 min free massage
 		</h2>
 		<p>
-			Jeśli polecisz komuś nasz masaż oferujemy bezpłatny masaż (30 min) dla Ciebie: 1 nowa osoba - 30 minut, 2 osoby - 60 minut gratis.
+			If you have been in our place, and like the massage, bring a friend to get a massage.
+			He would get 30% discount for his first 60 min massage. And you will get 30 min free massage
 		</p>
 		<p>
-			<b>Warunki</b> 
+			<b>Conditions</b> 
 			<br>
-			Nowego klienta prosimy o podanie nam imienia, nazwiska oraz nr telefonu osoby, która poleciła nasze zabiegi. Przed realizacją oferty skontaktujemy się z Państwem w celu uzgodnienia terminu masażu.
+			<ul>
+			<li>You have used our massages before.</li>
+			<li>Your friend has not been in our place before.</li>
+			<li>Your friend writes down your phone number on the form before massage</li>
+			<li>Offer does not work with any other kind of promotions</li>
+			</ul>
 		</p>
 	</div>
-	
+	<hr>
 	<div style='clear: both'></div>
 	
 	<hr>

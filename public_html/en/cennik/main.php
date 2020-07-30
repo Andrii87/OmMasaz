@@ -2,8 +2,8 @@
 <main>
 	<h1>Prices</h1> 
 	
-	<hr>
-	
+	<!--<hr>
+	-->
 	<div class=jedna_kolumna id=cennik_baner>
 		<!--
 		<img src='./../../_moduly/_img/cennik_masaz_baner.png' 
