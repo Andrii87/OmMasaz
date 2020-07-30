@@ -8,8 +8,10 @@
 		<img src='./../../_moduly/_img/cennik_masaz_baner.png' 
 				alt='opis obrazka'>
 		<p>
+			<!--
 			Nasza gwarancja jakości: JEŻELI NIE SPODOBA CI SIĘ NASZ MASAŻ 
 			<br>– NIE PONOSISZ ŻADNYCH KOSZTÓW!*
+		-->
 		</p>
 		<p>
 			*dotyczy to pierwszych 20&nbsp;minut masażu
