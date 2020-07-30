@@ -11,7 +11,7 @@
 	
 	<div class=dwie_kolumny >
 		<h2>Tel: (+48) 739 489 010 - Andrzej</h2>
-		<h2>Tel: (+48) 739 489 044 - Swietlana</h2>
+		
 	</div> 
 	
 	
