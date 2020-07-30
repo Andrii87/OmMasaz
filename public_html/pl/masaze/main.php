@@ -78,7 +78,7 @@
 		<img src='./../../_moduly/_img/img-foot-massage.jpg' alt='taj massage image'>
 	</div>
 	<div class=dwie_kolumny >
-		<h2>Tajski masaż stóp</h2>
+		<h2>Masaż stóp</h2>
 		<p>
 			<b>Pobudź swoje ciało przez stopy!</b><br>
 			Czy wiesz, że stopy są ważnym przekaźnikiem bodźców?
@@ -98,7 +98,7 @@
 	
 	
 	
-	
+	<!--
 	<div class=dwie_kolumny>
 		<img src='./../../_moduly/_img/img-taj-massage.jpg' alt='taj foot massage'>
 	</div>
@@ -119,9 +119,10 @@
 	<div style='clear: both'></div>
 	
 	<hr>
+-->
 	
 	
-	
+	<!--
 	
 	
 	<div class=dwie_kolumny>
@@ -152,12 +153,12 @@
 	<div style='clear: both'></div>
 	
 	<hr>
+	-->
 	
 	
 	
 	
-	
-	
+	<!--
 	<div class=dwie_kolumny>
 		<img src='./../../_moduly/_img/img7.jpg' alt='masaż modelujący ciało'>
 	</div>
@@ -177,6 +178,7 @@
 	<div style='clear: both'></div>
 	
 	<hr>
+-->
 	
 	
 	
@@ -202,7 +204,7 @@
 	
 	
 	
-	
+	<!--
 	<div class=dwie_kolumny>
 		<img src='./../../_moduly/_img/img9.jpg' alt='massage tanaka'>
 	</div>
@@ -222,6 +224,8 @@
 	<div style='clear: both'></div>
 	
 	<hr>
+-->
+
 </main>
 <section id=umow_sie> 
 	<h2 class=ukryj>Umów się</h2>
