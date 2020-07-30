@@ -11,11 +11,11 @@
 			<!--
 			Nasza gwarancja jakości: JEŻELI NIE SPODOBA CI SIĘ NASZ MASAŻ 
 			<br>– NIE PONOSISZ ŻADNYCH KOSZTÓW!*
-		-->
+
 		</p>
 		<p>
 			*dotyczy to pierwszych 20&nbsp;minut masażu
-		</p>
+		</p>-->
 	</div>
 	
 	<hr>
@@ -32,11 +32,12 @@
 		<p>
 		Wszystkie masaże oprócz zaznaczonych gwiazdką* są w&nbsp;jednej cenie:
 		<br>
-		80&nbsp;zł / 60&nbsp;min.
+		100&nbsp;zł / 60&nbsp;min.
 		</p>
 	</div>
 	
 	<div class=trzy_kolumny>
+		<!--
 		<strong>* Masaż Modelujący Ciało:</strong> 
 		<br>
 		60&nbsp;min - 99&nbsp;zł
@@ -44,6 +45,7 @@
 		90&nbsp;min - 145&nbsp;zł
 		<br>
 		120&nbsp;min - 190&nbsp;zł
+	-->
 	</div>
 	<div style='clear: both'></div>
 	
@@ -61,13 +63,13 @@
 		<h2>Karnet na 5 zabiegów</h2>
 		<p> 
 			60 minutowych
-			w cenie 300&nbsp;zł 
-			(1&nbsp;masaż - 60&nbsp;zł)
+			w cenie 400&nbsp;zł 
+			(1&nbsp;masaż - 80&nbsp;zł)
 			ważność karnetu 6&nbsp;tygodni
 			<br>
 			*&nbsp;koszt karnetu dla studentów oraz emerytów
-			- jedynie 250&nbsp;zł
-			(1&nbsp;masaż - 50&nbsp;zł)	
+			- jedynie 350&nbsp;zł
+			(1&nbsp;masaż - 70&nbsp;zł)	
 		</p> 
 	</div>
 	
@@ -75,24 +77,24 @@
 		<h2>Karnet na 3&nbsp;zabiegi</h2>
 		<p> 
 			60 minutowe
-			w cene 200&nbsp;zł
-			(1&nbsp;zabieg - 67&nbsp;zł)
+			w cene 260&nbsp;zł
+			(1&nbsp;zabieg - 86,7&nbsp;zł)
 			ważność karnetu 
 			3&nbsp;miesiące	
 		</p> 
 	</div>
 	
 	<div class=trzy_kolumny> 
-		<h2>Karnet na 1&nbsp;zabieg</h2>
+		<h2>Masaż z dojazdem</h2>
 		<p> 
 			Masaż z&nbsp;dojazdem
 			do&nbsp;klienta
 ​			<br>
-			60 min - 120 zł
+			60 min - 140 zł
 ​			<br>
-			90 min - 160 zł  
+			90 min - 180 zł  
 ​			<br>  
-			120 min - 200 zł 
+			120 min - 220 zł 
 		</p> 
 	</div>
 	<div style='clear: both'></div>
@@ -110,9 +112,9 @@
 			Masaż na Prezent
 ​		</h2>
 		<p>
-			60 min. - 69&nbsp;zł
+			60 min. - 80&nbsp;zł
 			<br>
-			90 min. - 99&nbsp;zł
+			90 min. - 100&nbsp;zł
 			<br>
 			*&nbsp;ważność karty podarunkowej 3&nbsp;miesiący
 		</p>
