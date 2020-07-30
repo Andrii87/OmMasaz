@@ -40,15 +40,16 @@
 	
 	
 	
-	
+	<!--
 	<div class=dwie_kolumny>
 		<img src="./../../_moduly/_img/Masazystka_Swietlana.jpg"  alt="masazyska Swietlana"    >
 	</div>
+	-->
 	
 	
-		
 	<div class=dwie_kolumny >
-		<h2>Swietlana</h2>
+			<!--
+			<h2>Swietlana</h2>
 		<p>
 			Witam! Jestem certyfikowaną masażystką. Zajmuję się masażem od 2011.
 			Jestem specjalistką w dziedzinie masażu tajskiego, japońskiego i masażu wyszczuplającego.
@@ -69,11 +70,11 @@ Pracowałam na Krymie, w Odesie, w Mariupolie, w Stockholmie jako masażystka za
 				Opinie Google
 			</a>
 		</p>
-	</div> 
+	</div> -->
 	
 	<div style='clear: both'></div>
 	
-	<hr>
+	
 	
 	
 	

@@ -6,30 +6,23 @@
 	<div class='jedna_trzecia_kolumny'>
 		<img src='./../../_moduly/_img/Oferty_promocijne.jpg' alt='oferta promocyjna'>
 		<p class=doSrodka>
+			<!--
 			<a href='./../nauka_masazu/' class=lacze_wiecej>
 				nauka masażu
 			</a>
+		-->
 		</p>
 	</div>
 	
 	<div class='dwie_trzecie_kolumny'>
-		<h2>Promocja na Walentynki! masaż dla pary 60 min. za 120 zł</h2>
-		<p>
-			U nas Walentynki trwają od 10.02.2017 do 17.02.2017 ;)
-		</p>
-		<p>
-			Zapraszamy na godzinny masaż dla par ;) 
-		</p>
 		
-		<hr>
 		
 		<h2>
-			Specjalna oferta dla fryzjerek/fryzjerów/manikiurzystek
+			Specjalna oferta dla fryzjerek / fryzjerów / manikiurzystek
 		</h2>
 		<p>
-			<b>Boli Cię kark bądź plecy?</b>
 			<br>
-			Zapraszamy! Oferujemy masaż pleców, barków, rąk -50% od ceny regularnej.
+			 Oferujemy masaż pleców, barków, rąk -50% od ceny regularnej.
 		</p>
 		<p>
 			<b>Warunki</b> 
@@ -40,15 +33,26 @@
 		<hr>
 		
 		<h2>
-			Oferta "2 nowe osoby = 1 masaż
+			Przyprowadź przyjaciela
 		</h2>
 		<p>
-			Jeśli polecisz komuś nasz masaż oferujemy bezpłatny masaż (30 min) dla Ciebie: 1 nowa osoba - 30 minut, 2 osoby - 60 minut gratis.
+			Jeśli polecisz komuś nasz masaż, dostaniesz  bezpłatny masaż (30 min) dla Ciebie: 1 nowa osoba - 30 minut, 2 osoby - 60 minut gratis.<br>
+			Nowa osoba dostanie 30% rabat na pierwszy 60 minutowy masaż.
 		</p>
 		<p>
 			<b>Warunki</b> 
 			<br>
-			Nowego klienta prosimy o podanie nam imienia, nazwiska oraz nr telefonu osoby, która poleciła nasze zabiegi. Przed realizacją oferty skontaktujemy się z Państwem w celu uzgodnienia terminu masażu.
+			Nowego klienta prosimy o podanie nam imienia, nazwiska oraz nr telefonu osoby, która poleciła nasze zabiegi. Po dostaniu informacji wysylamy sms o tym, że otrzymujesz 30 min masazu jako bonus. 
+		</p>
+		<p>
+			<b>Warunki</b> 
+			<br>
+			<ul>
+				<li>Byleś na masażu u nas wczesniej.</li>
+				<li>Pszyjaciel nie był u nas wczesniej na masażu.</li>
+				<li>Osoba z polecenia mówi i wpisuje w ankiecie że przyszla z polecenia</li>
+				<li>Oferta się nie lączy się z żadnymi innymi promocjami</li>
+			</ul>
 		</p>
 	</div>
 	
