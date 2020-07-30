@@ -19,11 +19,11 @@
 	<hr>
 	
 	<div class=trzy_kolumny>
-		<p>Czas zabiegu 30&nbsp;min - 40&nbsp;zł</p>
-		<p>Czas zabiegu 45&nbsp;min - 60&nbsp;zł</p>
-		<p>Czas zabiegu 60&nbsp;min - 80&nbsp;zł</p>
-		<p>Czas zabiegu 90&nbsp;min - 120&nbsp;zł</p>
-		<p>Czas zabiegu 120&nbsp;min - 160&nbsp;zł</p>
+		<p>Czas zabiegu 30&nbsp;min - 50&nbsp;zł</p>
+		<p>Czas zabiegu 45&nbsp;min - 75&nbsp;zł</p>
+		<p>Czas zabiegu 60&nbsp;min - 100&nbsp;zł</p>
+		<p>Czas zabiegu 90&nbsp;min - 150&nbsp;zł</p>
+		<p>Czas zabiegu 120&nbsp;min - 200&nbsp;zł</p>
 	</div>
 	
 	<div class=trzy_kolumny>
