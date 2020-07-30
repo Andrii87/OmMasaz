@@ -34,16 +34,17 @@
 	<br>
 	<br>
 	
-	
+	<!--
 	<div class=dwie_kolumny>
 		<div div style='width: 350px; padding-top:20px; padding-left:10px;'>
 			<img src="./../../_moduly/_img/Masazystka_Swietlana.PNG"  alt="masazyska Swietlana"    >
 		</div>
 	</div>
 	<hr>
-	
+	-->
 		
 	<div class=dwie_kolumny >
+		<!--
 		<h2>Swietlana</h2>
 		<p>
 			Hello! I am a certified massage therapist. I work as a masseuse since 2011.
@@ -65,6 +66,7 @@ I worked in the Crimea, in Odessa, in Mariupol, in Stockholm as a professional m
 				Opinie Google
 			</a>
 		</p>
+	-->
 	</div> 
 	
 	<div style='clear: both'></div>
