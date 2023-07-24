@@ -1,9 +1,10 @@
 <script src='./../menu.lang'></script>
 <nav>
 	<h2 class=ukryj>Menu główne</h2>
-	<div>
+	<div class=menuBtn>
 		<a href='./../masaze/'>
-			<script> document.write( menu.masaze ); </script>
+		Masaże
+			<!-- <script> document.write( menu.masaze ); </script> -->
 		</a>
 		<!--<div class='menu_rozwijane'>
 			<a href=''>
@@ -14,24 +15,29 @@
 			</a>
 		</div>-->
 	</div>
-	<div>
+	<div class=menuBtn>
 		<a href='./../cennik/'>
-			<script> document.write( menu.cennik ); </script>
+		Cennik
+			<!-- <script> document.write( menu.cennik ); </script> -->
 		</a>
 	</div>
-	<div>
+	<div class=menuBtn>
 		<a href='./../oferty/'>
-			<script> document.write( menu.oferty ); </script>
+		Oferty
+			<!-- <script> document.write( menu.oferty ); </script> -->
 		</a>
 	</div>
-	<div>
+	<div class=menuBtn>
 		<a href='./../o-nas/'>
-			<script> document.write( menu.o_nas ); </script>
+		O nas
+			<!-- <script> document.write( menu.o_nas ); </script> -->
 		</a>
 	</div>
-	<div>
+	<div class=menuBtn>
 		<a href='./../kontakt/'>
-			<script> document.write( menu.kontakt ); </script>
+		Kontakt
+		
+			<!-- <script> document.write( menu.kontakt ); </script> -->
 		</a>
 	</div>
 </nav>
