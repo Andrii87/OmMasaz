@@ -12,6 +12,7 @@
 #strona > nav > div > a{ 
 	display: inline-block;
 	width: 100%;
+	color: #eee;
 }
 
 
