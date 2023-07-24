@@ -34,8 +34,10 @@
 	<a href='<?php echo str_replace ($lang, '/en/', $url);?>'>
 		<img src='./../../_moduly/_img/en.png' alt='en'>
 	</a>
+	<!--
 	<a href='<?php echo str_replace ($lang, '/ru/', $url);?>'>
 		<img src='./../../_moduly/_img/ru.png' alt='ru'>
 	</a>
+	-->
 </section>
 <div style='clear:both;'></div>
